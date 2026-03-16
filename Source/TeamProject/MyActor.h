@@ -10,14 +10,14 @@ UCLASS()
 class TEAMPROJECT_API AMyActor : public AActor
 {
 	GENERATED_BODY()
-	
-public:	
+
+public:
 	AMyActor();
 
 protected:
 	virtual void BeginPlay() override;
 
-public:	
+public:
 	virtual void Tick(float DeltaTime) override;
 
 };
