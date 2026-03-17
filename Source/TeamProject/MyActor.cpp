@@ -21,11 +21,7 @@ void AMyActor::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-<<<<<<< HEAD
 	UE_LOG(LogTemp, Warning, TEXT("AMyActor is ticking!~teamwork"));
-=======
-	UE_LOG(LogTemp, Warning, TEXT("AMyActor is ticking!"));
->>>>>>> run
 
 }
 
