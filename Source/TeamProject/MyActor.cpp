@@ -24,7 +24,7 @@ void AMyActor::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 
 
-	UE_LOG(LogTemp, Warning, TEXT("AMyActor is ticking!"));
+	UE_LOG(LogTemp, Warning, TEXT("AMyActor is ticking!!"));
 
 }
 
