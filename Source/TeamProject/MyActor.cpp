@@ -22,7 +22,7 @@ void AMyActor::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	UE_LOG(LogTemp, Warning, TEXT("AMyActor is ticking!~~~"));
-	//다시보니 물결표로 수정해야함.
+	UE_LOG(LogTemp, Warning, TEXT("AMyActor is ticking!~~~~"));
+
 }
 
